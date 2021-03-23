@@ -10,7 +10,7 @@ h3 {
 }
 
 p {
-    color: #5231ad;
+    color: #4609ee;
 }
 
 .big-heading {
@@ -32,7 +32,7 @@ p {
 }
 
 .colored-section {
-    background-color: #aeffff;
+    background-color: #b7e240;
 }
 
 .white-section {
@@ -50,7 +50,7 @@ p {
     font-family: "Ubuntu";
     font-size: 2.5rem;
     font-weight: bold;
-    color: #116daa;
+    color: #073d61;
 }
 
 .hd{
@@ -83,10 +83,11 @@ p {
 /* Title Image */
 
 .title-image {
-    transform: rotate(25deg);
-    right: 30%;
+    transform:none;
+    height: 50%;
     width: 50%;
     position: absolute;
+    margin-bottom: 0cm;
 }
 
 
