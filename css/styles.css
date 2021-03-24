@@ -187,13 +187,14 @@ h2{
         font-weight: bold;
         font-size: 4.5rem;
         line-height: 1.5;
-        color: #000e2c;
     }
     .title-image {
         transform:none;
         height: 150px;
         width: 400px;
         position: relative;
+        padding: 20px;
+        padding-top: 20px;
     }
     .medium-heading{
         font-size: 2.5rem;
@@ -211,4 +212,22 @@ h2{
     .card-div{
         font-size: 1.5rem;
     }
+}
+
+
+
+
+
+/* Basic Membership */
+
+.card-image{
+
+}
+
+.card-1-postion{
+    margin-top: 30px;
+}
+
+.card-2-postion{
+    margin-top: 30px;
 }
