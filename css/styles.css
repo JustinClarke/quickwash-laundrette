@@ -32,7 +32,7 @@ p {
 }
 
 .colored-section {
-    background-color: #00c0a6;
+    background-color: #9fd8df;
 }
 
 .white-section {
@@ -183,7 +183,7 @@ h2{
         line-height: 1.5;
     }
     .big-heading {
-        font-family: "Montserrat";
+        font-family: 'Cabin Condensed', sans-serif;
         font-weight: bold;
         font-size: 4.5rem;
         line-height: 1.5;
@@ -206,6 +206,9 @@ h2{
     }
     .white-section {
         background-color: #fff;
+        font-size: 1.5rem;
+    }
+    .card-div{
         font-size: 1.5rem;
     }
 }
