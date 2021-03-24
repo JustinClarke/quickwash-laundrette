@@ -10,7 +10,7 @@ h3 {
 }
 
 p {
-    color: #4609ee;
+    color: #0065c4;
 }
 
 .big-heading {
@@ -32,7 +32,7 @@ p {
 }
 
 .colored-section {
-    background-color: #b7e240;
+    background-color: #00c0a6;
 }
 
 .white-section {
@@ -50,7 +50,7 @@ p {
     font-family: "Ubuntu";
     font-size: 2.5rem;
     font-weight: bold;
-    color: #073d61;
+    color: #000000;
 }
 
 .hd{
@@ -185,10 +185,27 @@ h2{
     .big-heading {
         font-family: "Montserrat";
         font-weight: bold;
-        font-size: 4rem;
+        font-size: 4.5rem;
         line-height: 1.5;
+        color: #000e2c;
+    }
+    .title-image {
+        transform:none;
+        height: 150px;
+        width: 400px;
+        position: relative;
+    }
+    .medium-heading{
+        font-size: 2.5rem;
     }
     .navbar-brand {
         font-size: 6rem;
+    }
+    .feature-title{
+        font-size: 2.5rem;
+    }
+    .white-section {
+        background-color: #fff;
+        font-size: 1.5rem;
     }
 }
